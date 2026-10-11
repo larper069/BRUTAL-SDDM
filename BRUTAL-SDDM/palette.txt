@@ -1,0 +1,10 @@
+AUXIS SDDM palette
+Ink:       #11110f
+Paper:     #efeee8
+Paper 2:   #e6e4dc
+Signal red:#ff4b2b
+Muted:     #8b8981
+Line:      #373631
+
+Primary clock: Manrope ExtraBold (or system fallback)
+Labels:        DM Mono (or system fallback)

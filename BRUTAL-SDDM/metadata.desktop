@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=AUXIS
+Description=Neo-brutalist AUXIS login theme
+Author=Slayerrr
+Copyright=2026
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=
+MainScript=Main.qml
+ConfigFile=theme.conf
+QtVersion=6
